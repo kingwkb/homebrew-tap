@@ -1,8 +1,8 @@
 class PinentrySwift < Formula
   desc "Pinentry for GPG on macOS with Touch ID support"
   homepage "https://github.com/kingwkb/pinentry-swift"
-  url "https://github.com/kingwkb/pinentry-swift/releases/download/v0.0.2/pinentry-swift-v0.0.2.tar.gz"
-  sha256 "449fc121bd9f342a291f40620a103448010248b42b54020de4c00237411c5dd4"
+  url "https://github.com/kingwkb/pinentry-swift/releases/download/v0.0.3/pinentry-swift-v0.0.3.tar.gz"
+  sha256 "4285f04a51bb42ac49e2b148146c419b5f46444d6b614361231082fb562dcb14"
   license "MIT"
   depends_on macos: :monterey
 
